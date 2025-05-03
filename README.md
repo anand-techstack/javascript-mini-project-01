@@ -16,8 +16,7 @@ A responsive and elegant **New Year countdown timer** built using **HTML, CSS (B
 - **JavaScript**
 
 # 🖥️ Live Demo
-[👉 Click here to view the live demo](https://anandtechstack.github.io/new-year-countdown)  
-*Replace with your deployed URL if hosted.*
+[👉 Click here to view the live demo](https://anand-techstack.github.io/javascript-mini-project-01/)  
 ---
 
 
