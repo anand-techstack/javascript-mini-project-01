@@ -1,0 +1,28 @@
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.621), rgba(0, 0, 0, 0.767)),
+    url("image/fireworks-in-the-sky.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 99%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.new-year-container {
+  background-position: center;
+  background-size: cover;
+  box-shadow: 0 0 10px rgb(249, 174, 174);
+  text-align: center;
+  color: white;
+  padding: 5%;
+  text-transform: capitalize;
+  z-index: 1000;
+}
+.time {
+  font-size: 250%;
+}
